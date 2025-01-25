@@ -6,11 +6,11 @@
   color: darkblue;
 }
 
-.link {
+a {
   text-decoration: none;
 }
 
-#links {
+h2 a {
   color: seagreen;
 }
 
